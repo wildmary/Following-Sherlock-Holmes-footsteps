@@ -6,4 +6,5 @@
 
 Из личного интереса я экспортировала данные в Google Planet Pro, добавив перемещения Холмса по миру после его "смерти":
 
-![ОБОЖЕМОЙ](https://github.com/wildmary/Following-Sherlock-Holmes-footsteps/blob/master/hhhh.mp4)
+
+[![sh](http://img.youtube.com/vi/2-Alh8kRXs4/0.jpg)](http://www.youtube.com/watch?v=2-Alh8kRXs4 "")
