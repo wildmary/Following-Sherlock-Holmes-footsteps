@@ -1,0 +1,155 @@
+Id;Label;timeset;start;lat;lng
+0;Baker Street 221b;;;51.51795;-0.15584
+1;Tottenham Court Road;;;51.52003;-0.13393
+2;Hampstead Street;;;51.56082;-0.16316
+3;Great Orme Street;;;51.52241;-0.11809
+4;How Street;;;51.499423;-0.197735
+5;Scotland Yard;;;51.501677;-0.124102
+6;Covent Garden;;;51.51148;-0.12287
+7;Streatham;;;51.44;-0.125749
+8;West End;;;51.516984;-0.125747
+9;Whitehall Terrace;;;51.503534;-0.126218
+10;Foreign Office, King Charles Street;;;51.50251;-0.12923
+11;Godolphin Street 16;;;51.49671;-0.12771
+12;Hammersmith;;;51.49161;-0.22294
+13;"Tavern ""Alpha"", Bloomsbury";;;51.51777;-0.12574
+14;Goodge Street;;;51.52003;-0.13393
+15;Wimpole Street;;;51.51663;-0.147554
+16;Harley Street;;;51.51765;-0.14632
+17;Wigmore Street;;;51.51578;-0.15276
+18;Oxford Street;;;51.516029;-0.135067
+19;Holborn;;;51.51817;-0.111129
+20;Endell Street;;;51.514091;-0.123931
+21;Covent Garden Market;;;51.51189;-0.123397
+22;Brixton Road 117;;;51.477847;-0.112108
+23;"""Cosmopolitan"" Hotel";;;51.512482;-0.147901
+24;Camberwell;;;51.47409;-0.09304
+25;"""Lenham"" Hotel";;;51.51776;-0.14397
+26;"""Lyceum"" Theatre";;;51.511641;-0.11952
+27;Pondishery Lodge, Upper Norwood;;;51.402958;-0.088041
+28;Rochester Road;;;51.494218;-0.136794
+29;Vincent Square;;;51.493524;-0.135219
+30;Vauxhall Bridge Road;;;51.490553;-0.133427
+31;Wandsworth Road;;;51.483699;-0.127033
+32;Priory Road;;;51.541435;-0.189542
+33;Lark Hall Lane;;;51.472236;-0.129306
+34;Stockwell Place;;;51.47236;-0.12213
+35;Robert Street;;;51.470584;-0.115185
+36;Cold Harbour Lane;;;51.465791;-0.103261
+37;Pinchin Lane 3;;;51.49229;-0.12077
+38;Brixton;;;51.47321;-0.11375
+39;Kennington Lane;;;51.486291;-0.122956
+40;Bond Street;;;51.514418;-0.146685
+41;Miles Street;;;51.483311;-0.126772
+42;Knights Place;;;51.49229;-0.12077
+43;Nine Elmes;;;51.480852;-0.142734
+44;Belmont Place;;;51.48394;-0.12654
+45;Princes Street;;;51.491386;-0.117953
+46;Broad Street;;;51.490967;-0.116969
+47;Great Peter Street;;;51.4969;-0.12724
+48;Poplar;;;51.512393;-0.008783
+49;Westminster Embankment;;;51.50163;-0.12342
+50;Jackobson Yard;;;51.50553;-0.075306
+51;Pool;;;51.50553;-0.075306
+52;West India Docks;;;51.507;-0.02445
+53;Deptford Spit;;;51.48472;-0.02326
+54;Dog Island;;;51.488125;-0.022495
+56;Plumstead Swamp;;;51.504495;0.089049
+57;Northumberland Road;;;51.507071;-0.125422
+58;Queen Anne Street 9;;;51.51826;-0.14571
+59;Carlton Club, St James Street 69;;;51.506353;-0.134091
+60;Vernon Lodge;;;51.38204;-0.26071
+61;Simpson's, Strand;;;51.5106;-0.120589
+62;Berkley Road 104;;;51.50967;-0.14582
+63;Charing Cross Railway Station;;;51.50802;-0.12471
+64;Regent Street;;;51.51223;-0.1398
+65;Charing Cross Hospital;;;51.50955;-0.12445
+66;Grosvenor;;;51.51152;-0.15136
+67;St George Church, Hanover Square;;;51.51252;-0.14293
+68;Lancaster Gate;;;51.51366;-0.17591
+69;Hyde Park;;;51.50907;-0.17045
+70;Gordon Square 226;;;51.52447;-0.13042
+71;Langham Hotel;;;51.51776;-0.14397
+72;Kennington Road;;;51.4874;-0.11134
+73;Poultney Square 36;;;51.47919;-0.11183
+74;Firbank Villas 13;;;51.47062;-0.0585
+75;Brixton Workhoused Infirmary;;;51.46285;-0.12052
+76;Moorside Gardens 136;;;53.744983;-1.880923
+77;Appledore Towers, Hampstead;;;51.55527;-0.18138
+78;Regent Circus;;;51.51527;-0.14195
+79;Lewisham;;;51.45745;0.01104
+80;Blackhit Station;;;51.46593;0.00884
+81;London Bridge;;;51.507884;-0.087814
+82;Albert Hall;;;51.50099;-0.17741
+83;Living of Moosmoor cum Little Purlington;;;51.622134;0.275446
+84;Liverpool Street;;;51.517832;-0.084365
+85;Waterloo Railway Station;;;51.50332;-0.11446
+86;"""Northumberland"" Hotel";;;51.530351;-0.12276
+87;Strand;;;51.511433;-0.119368
+88;Trafalgar Square;;;51.50779;-0.12737
+89;"""Criterion"" Bar";;;51.51;-0.134167
+90;Barts Hospital;;;51.517574;-0.098812
+91;Holborn;;;51.51817;-0.111129
+92;Torquay Terrace;;;51.467149;-0.099714
+93;Euston Station;;;51.528314;-0.133846
+94;Halliday's Private Hotel, Little George Street;;;51.527646;-0.136341
+95;Brixton Road 3, Lauriston Gardens;;;51.48073;-0.110099
+96;Kennington Park Gate, Audley Court 46;;;51.469866;-0.112588
+97;Duncan Street 13, Houndsditch;;;51.514275;-0.071154
+98;Brook Street 403;;;51.513218;-0.146789
+99;Fleet Street;;;51.514581;-0.107979
+100;Pitt Street 131, Kensington;;;51.503745;-0.194655
+101;Harding Brothers, Kensington;;;51.501163;-0.192853
+102;Church Street, Stepney;;;51.514518;-0.045245
+103;Chiswick;;;51.489914;-0.228986
+104;Diogen club, Pall Mall;;;51.50571;-0.13608
+105;Beckenham Platform;;;51.42459;-0.01591
+106;The Myrtles;;;51.42549;-0.02128
+107;Horsham;;;51.066789;-0.326416
+108;Waterloo Bridge;;;51.50894;-0.11715
+109;Briony Lodge, Serpentine-avenue, St. John's Wood;;;51.53237;-0.17358
+110;Church of St. Monica, Edgware Road;;;51.51838;-0.1669
+111;Paddington;;;51.51456;-0.1739
+112;"""Bar of Gold"", Upper Swandam Lane";;;51.50905;-0.0886
+113;Saxe Coburg Square;;;51.52043;-0.09763
+114;Pope's Court 7, Fleet Street;;;51.51424;-0.10524
+115;Aldersgate;;;51.52141;-0.09701
+116;Saint James Hall;;;51.509479;-0.136896
+117;Lower Burke Street 13;;;51.51278;-0.20668
+118;Bentinck Street;;;51.51726;-0.14934
+119;Vere Street;;;51.5153;-0.14751
+120;Watson's, Mortimer Street;;;51.51811;-0.14062
+121;Victoria Railway Station;;;51.495351;-0.143608
+122;Bagatelle Card Club;;;51.508875;-0.142874
+123;Park Lane 427;;;51.51206;-0.15734
+124;Conduit Street;;;51.51221;-0.141948
+125;Deep Dene House, Sydenham;;;51.42692;-0.05684
+126;Gresham Buildings 426;;;51.51738;-0.10544
+127;Torrington Lodge, Blackheath;;;51.459907;-0.009892
+128;London Bridge Station;;;51.50508;-0.08617
+129;"Villa ""Three Gables"", Harrow Weald";;;51.60472;-0.33942
+130;Saint James Street;;;51.50678;-0.13959
+131;Woolwich;;;51.49138;0.06871
+132;Oldget Station;;;51.51452;-0.07588
+133;Gloster Road, Kensington;;;51.49459;-0.18264
+134;Caulfield Gardens 13, Kensington;;;51.49329;-0.19228
+135;"""Daily Telegraph""";;;51.51422;-0.10673
+136;Windsor Palace;;;51.483333;-0.604167
+137;Little Ryder Street 136, West End;;;51.5136;-0.16198
+138;Grosvenor Buildings, Aston, Birmingham;;;52.49702;-1.885616
+139;Edgware Road;;;51.51539;-0.16338
+140;Canterbury;;;51.274271;1.076003
+142;Newhaven;;;50.789799;0.055019
+143;Dieppe;;;49.933647;1.088006
+144;Brussels;;;50.848235;4.350669
+145;Strasburg;;;48.585302;7.734392
+146;Geneva;;;46.210542;6.143026
+147;Interlaken;;;46.686396;7.863077
+148;Meiringen;;;46.727405;8.184481
+149;Reichenbach Waterfall;;;46.71456;8.182848
+150;Tibet;;;32.090703;88.917014
+151;Persia;;;35.695493;51.382897
+152;Mecca;;;21.422497;39.82621
+153;Hartum;;;15.512194;32.558428
+154;Montpellier;;;43.608949;3.879684
+141;Paris;;;48.880959;2.35527

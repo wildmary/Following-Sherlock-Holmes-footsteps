@@ -1,0 +1,204 @@
+Source;Target;Type;Id;Label;timeset;Weight;Character;Title;Chronology;start;end
+87;89;Undirected;286;;<[1.0, 16.0]>;1;Watson;Study in Scarlet;1;1;16
+91;89;Undirected;289;;<[2.0, 16.0]>;1;Stamford;Study in Scarlet;1;2;16
+91;90;Undirected;291;;<[3.0, 16.0]>;1;Stamford;Study in Scarlet;1;3;16
+87;90;Undirected;293;;<[4.0, 16.0]>;2;Watson;Study in Scarlet;1;4;16
+0;90;Undirected;294;;<[5.0, 16.0]>;1;Watson;Study in Scarlet;1;5;16
+92;93;Undirected;296;;<[6.0, 16.0]>;1;Stangerson;Study in Scarlet;1;6;16
+94;93;Undirected;299;;<[7.0, 16.0]>;1;Stangerson;Study in Scarlet;1;7;16
+95;93;Undirected;300;;<[8.0, 16.0]>;1;Hope;Study in Scarlet;1;8;16
+95;94;Undirected;302;;<[9.0, 16.0]>;1;Hope;Study in Scarlet;1;9;16
+95;0;Undirected;303;;<[10.0, 16.0]>;1;Watson;Study in Scarlet;1;10;16
+95;96;Undirected;305;;<[11.0, 16.0]>;1;Watson;Study in Scarlet;1;11;16
+0;96;Undirected;307;;<[12.0, 16.0]>;1;Watson;Study in Scarlet;1;12;16
+0;97;Undirected;309;;<[13.0, 16.0]>;1;Holmes;Study in Scarlet;1;13;16
+0;94;Undirected;312;;<[14.0, 16.0]>;1;Lestrayd;Study in Scarlet;1;14;16
+0;99;Undirected;319;;<[-Infinity, Infinity]>;1;Watson;Resident Patient;2;17;22
+87;99;Undirected;321;;<[-Infinity, Infinity]>;1;Watson;Resident Patient;2;18;22
+87;0;Undirected;323;;<[-Infinity, Infinity]>;1;Watson;Resident Patient;2;19;22
+98;0;Undirected;325;;<[-Infinity, Infinity]>;2;Watson;Resident Patient;2;20;22
+7;0;Undirected;11;;<[-Infinity, Infinity]>;2;Watson;Beryl Coronet;3;23;26
+7;5;Undirected;12;;<[-Infinity, Infinity]>;1;Police;Beryl Coronet;3;24;26
+8;0;Undirected;15;;<[-Infinity, Infinity]>;1;Holmes;Beryl Coronet;3;25;26
+77;0;Undirected;229;;<[-Infinity, Infinity]>;1;Watson;Charles Augustus Milverton;4;27;30
+77;5;Undirected;232;;<[-Infinity, Infinity]>;1;Police;Charles Augustus Milverton;4;28;30
+78;18;Undirected;236;;<[-Infinity, Infinity]>;1;Watson;Charles Augustus Milverton;4;29;30
+107;0;Undirected;354;;<[-Infinity, Infinity]>;1;John Openshaw;5 Orange Pips;5;31;33
+107;108;Undirected;355;;<[-Infinity, Infinity]>;1;John Openshaw;5 Orange Pips;5;32;33
+109;0;Undirected;357;;<[-Infinity, Infinity]>;1;Watson;Scandal in Bohemia;6;34;35
+109;110;Undirected;358;;<[-Infinity, Infinity]>;1;Iren Adler;Scandal in Bohemia;6;34;35
+0;104;Undirected;342;;<[-Infinity, Infinity]>;2;Mycroft;Greek Interpreter;7;36;40
+5;104;Undirected;345;;<[-Infinity, Infinity]>;1;Watson;Greek Interpreter;7;37;40
+5;105;Undirected;348;;<[-Infinity, Infinity]>;1;Mycroft;Greek Interpreter;7;38;40
+106;105;Undirected;351;;<[-Infinity, Infinity]>;1;Mycroft;Greek Interpreter;7;39;40
+0;66;Undirected;195;;<[-Infinity, Infinity]>;2;Lord Saint Simon;Noble Bachelor;8;41;47
+67;66;Undirected;196;;<[-Infinity, Infinity]>;1;Mrs Francis Hay Maulton;Noble Bachelor;8;42;47
+67;68;Undirected;198;;<[-Infinity, Infinity]>;1;Mr Maulton;Noble Bachelor;8;43;47
+70;68;Undirected;201;;<[-Infinity, Infinity]>;1;Mrs Francis Hay Maulton;Noble Bachelor;8;44;47
+5;69;Undirected;203;;<[-Infinity, Infinity]>;1;Lestrayd;Noble Bachelor;8;45;47
+0;69;Undirected;204;;<[-Infinity, Infinity]>;1;Lestrayd;Noble Bachelor;8;46;47
+17;0;Undirected;52;;<[-Infinity, Infinity]>;1;Watson;Sign of the Four;9;48;90
+25;27;Undirected;53;;<[-Infinity, Infinity]>;1;Mayor Morsten;Sign of the Four;9;49;90
+24;0;Undirected;54;;<[-Infinity, Infinity]>;2;Watson;Sign of the Four;9;50;90
+26;0;Undirected;55;;<[-Infinity, Infinity]>;1;Watson;Sign of the Four;9;51;90
+26;28;Undirected;58;;<[-Infinity, Infinity]>;1;Mary Morsten;Sign of the Four;9;52;90
+29;28;Undirected;61;;<[-Infinity, Infinity]>;1;Watson;Sign of the Four;9;53;90
+29;30;Undirected;64;;<[-Infinity, Infinity]>;1;Watson;Sign of the Four;9;54;90
+31;30;Undirected;67;;<[-Infinity, Infinity]>;1;Watson;Sign of the Four;9;55;90
+31;32;Undirected;70;;<[-Infinity, Infinity]>;1;Watson;Sign of the Four;9;56;90
+33;32;Undirected;73;;<[-Infinity, Infinity]>;1;Watson;Sign of the Four;9;57;90
+33;34;Undirected;76;;<[-Infinity, Infinity]>;1;Watson;Sign of the Four;9;58;90
+35;34;Undirected;79;;<[-Infinity, Infinity]>;1;Watson;Sign of the Four;9;59;90
+35;36;Undirected;82;;<[-Infinity, Infinity]>;1;Watson;Sign of the Four;9;60;90
+27;36;Undirected;85;;<[-Infinity, Infinity]>;1;Watson;Sign of the Four;9;61;90
+27;5;Undirected;89;;<[-Infinity, Infinity]>;1;Tadeush Sholto;Sign of the Four;9;62;90
+27;24;Undirected;91;;<[-Infinity, Infinity]>;1;Watson;Sign of the Four;9;63;90
+37;24;Undirected;93;;<[-Infinity, Infinity]>;1;Watson;Sign of the Four;9;64;90
+37;27;Undirected;94;;<[-Infinity, Infinity]>;1;Watson;Sign of the Four;9;65;90
+7;27;Undirected;96;;<[-Infinity, Infinity]>;1;Smoll;Sign of the Four;9;66;90
+7;38;Undirected;100;;<[-Infinity, Infinity]>;1;Smoll;Sign of the Four;9;67;90
+39;38;Undirected;104;;<[-Infinity, Infinity]>;1;Smoll;Sign of the Four;9;68;90
+39;40;Undirected;108;;<[-Infinity, Infinity]>;1;Smoll;Sign of the Four;9;69;90
+41;40;Undirected;112;;<[-Infinity, Infinity]>;1;Smoll;Sign of the Four;9;70;90
+41;42;Undirected;116;;<[-Infinity, Infinity]>;1;Smoll;Sign of the Four;9;71;90
+43;42;Undirected;120;;<[-Infinity, Infinity]>;1;Toby;Sign of the Four;9;72;90
+44;42;Undirected;123;;<[-Infinity, Infinity]>;1;Smoll;Sign of the Four;9;73;90
+44;45;Undirected;127;;<[-Infinity, Infinity]>;1;Smoll;Sign of the Four;9;74;90
+46;45;Undirected;131;;<[-Infinity, Infinity]>;1;Smoll;Sign of the Four;9;75;90
+46;47;Undirected;135;;<[-Infinity, Infinity]>;1;Toby;Sign of the Four;9;76;90
+0;47;Undirected;138;;<[-Infinity, Infinity]>;1;Toby;Sign of the Four;9;77;90
+0;37;Undirected;141;;<[-Infinity, Infinity]>;1;Toby;Sign of the Four;9;78;90
+48;0;Undirected;145;;<[-Infinity, Infinity]>;1;Holmes;Sign of the Four;9;79;90
+49;0;Undirected;147;;<[-Infinity, Infinity]>;1;Etelny Jones;Sign of the Four;9;80;90
+49;50;Undirected;150;;<[-Infinity, Infinity]>;1;Etelny Jones;Sign of the Four;9;81;90
+51;50;Undirected;153;;<[-Infinity, Infinity]>;1;Smoll;Sign of the Four;9;82;90
+51;52;Undirected;157;;<[-Infinity, Infinity]>;1;Smoll;Sign of the Four;9;83;90
+53;52;Undirected;161;;<[-Infinity, Infinity]>;1;Smoll;Sign of the Four;9;84;90
+53;54;Undirected;165;;<[-Infinity, Infinity]>;1;Smoll;Sign of the Four;9;85;90
+56;54;Undirected;169;;<[-Infinity, Infinity]>;1;Smoll;Sign of the Four;9;86;90
+30;0;Undirected;173;;<[-Infinity, Infinity]>;1;Smoll;Sign of the Four;9;87;90
+30;24;Undirected;176;;<[-Infinity, Infinity]>;1;Watson;Sign of the Four;9;88;90
+0;18;Undirected;234;;<[-Infinity, Infinity]>;1;John Clayton;The Hound of the Baskervilles;10;91;104
+0;86;Undirected;257;;<[-Infinity, Infinity]>;3;Watson;The Hound of the Baskervilles;10;92;104
+0;85;Undirected;258;;<[-Infinity, Infinity]>;1;John Clayton;The Hound of the Baskervilles;10;93;104
+86;85;Undirected;259;;<[-Infinity, Infinity]>;1;Sir Henry;The Hound of the Baskervilles;10;94;104
+86;87;Undirected;261;;<[-Infinity, Infinity]>;1;Sir Henry;The Hound of the Baskervilles;10;95;104
+18;64;Undirected;269;;<[-Infinity, Infinity]>;1;Sir Henry;The Hound of the Baskervilles;10;96;104
+86;64;Undirected;274;;<[-Infinity, Infinity]>;1;Dr Mortimer;The Hound of the Baskervilles;10;97;104
+40;64;Undirected;276;;<[-Infinity, Infinity]>;1;Watson;The Hound of the Baskervilles;10;98;104
+40;86;Undirected;278;;<[-Infinity, Infinity]>;1;Watson;The Hound of the Baskervilles;10;99;104
+64;85;Undirected;283;;<[-Infinity, Infinity]>;1;John Clayton;The Hound of the Baskervilles;10;100;104
+88;85;Undirected;284;;<[-Infinity, Infinity]>;1;John Clayton;The Hound of the Baskervilles;10;101;104
+88;0;Undirected;285;;<[-Infinity, Infinity]>;1;John Clayton;The Hound of the Baskervilles13;10;102;104
+112;111;Undirected;362;;<[-Infinity, Infinity]>;1;Watson;Twisted Lip;11;105;108
+112;0;Undirected;363;;<[-Infinity, Infinity]>;1;Holmes;Twisted Lip;11;106;108
+13;1;Undirected;26;;<[-Infinity, Infinity]>;1;Henry Baker;Blue Carbuncle;12;109;125
+14;1;Undirected;27;;<[-Infinity, Infinity]>;1;Henry Baker;Blue Carbuncle;12;110;125
+5;23;Undirected;28;;<[-Infinity, Infinity]>;1;John Horner;Blue Carbuncle;12;111;125
+0;15;Undirected;30;;<[-Infinity, Infinity]>;1;Watson;Blue Carbuncle;12;112;125
+16;15;Undirected;32;;<[-Infinity, Infinity]>;1;Watson;Blue Carbuncle;12;113;125
+16;17;Undirected;34;;<[-Infinity, Infinity]>;1;Watson;Blue Carbuncle;12;114;125
+18;17;Undirected;36;;<[-Infinity, Infinity]>;1;Watson;Blue Carbuncle;12;115;125
+18;13;Undirected;38;;<[-Infinity, Infinity]>;1;Watson;Blue Carbuncle;12;116;125
+19;13;Undirected;40;;<[-Infinity, Infinity]>;1;Watson;Blue Carbuncle;12;117;125
+19;20;Undirected;42;;<[-Infinity, Infinity]>;1;Watson;Blue Carbuncle;12;118;125
+21;20;Undirected;44;;<[-Infinity, Infinity]>;1;Watson;Blue Carbuncle;12;119;125
+21;22;Undirected;46;;<[-Infinity, Infinity]>;1;Goose;Blue Carbuncle;12;120;125
+21;13;Undirected;47;;<[-Infinity, Infinity]>;1;Goose;Blue Carbuncle;12;121;125
+21;0;Undirected;48;;<[-Infinity, Infinity]>;1;Watson;Blue Carbuncle;12;122;125
+22;23;Undirected;51;;<[-Infinity, Infinity]>;1;James Ryner;Blue Carbuncle;12;123;125
+114;113;Undirected;364;;<[-Infinity, Infinity]>;2;Wilson;Red-Headed League;13;126;135
+114;0;Undirected;365;;<[-Infinity, Infinity]>;1;Wilson;Red-Headed League;13;127;135
+115;0;Undirected;366;;<[-Infinity, Infinity]>;1;Watson;Red-Headed League;13;128;135
+115;113;Undirected;368;;<[-Infinity, Infinity]>;1;Watson;Red-Headed League;13;129;135
+116;113;Undirected;370;;<[-Infinity, Infinity]>;1;Watson;Red-Headed League;13;130;135
+116;111;Undirected;372;;<[-Infinity, Infinity]>;1;Watson;Red-Headed League;13;131;135
+0;116;Undirected;374;;<[-Infinity, Infinity]>;1;Holmes;Red-Headed League;13;132;135
+0;113;Undirected;375;;<[-Infinity, Infinity]>;1;Watson;Red-Headed League;13;133;135
+111;0;Undirected;356;;<[-Infinity, Infinity]>;2;Watson;Dying Detective;14;136;140
+0;117;Undirected;379;;<[-Infinity, Infinity]>;1;Watson;Dying Detective;14;137;140
+61;5;Undirected;382;;<[-Infinity, Infinity]>;1;Watson;Dying Detective;14;138;140
+119;104;Undirected;386;;<[-Infinity, Infinity]>;1;Holmes;Final Problem;15;141;144
+120;104;Undirected;387;;<[-Infinity, Infinity]>;1;Holmes;Final Problem;15;142;144
+123;122;Undirected;393;;<[-Infinity, Infinity]>;1;Moran;Empty House;16;145;151
+123;124;Undirected;395;;<[-Infinity, Infinity]>;1;Moran;Empty House;16;146;151
+123;120;Undirected;396;;<[-Infinity, Infinity]>;1;Holmes;Empty House;16;147;151
+123;0;Undirected;397;;<[-Infinity, Infinity]>;1;Holmes;Empty House;16;148;151
+0;124;Undirected;401;;<[-Infinity, Infinity]>;1;Moran;Empty House;16;149;151
+126;125;Undirected;404;;<[-Infinity, Infinity]>;1;Mr McFarlane;Norwood Builder;17;152;160
+128;125;Undirected;405;;<[-Infinity, Infinity]>;1;Mr McFarlane;Norwood Builder;17;153;160
+128;126;Undirected;406;;<[-Infinity, Infinity]>;1;Mr McFarlane;Norwood Builder;17;154;160
+0;126;Undirected;407;;<[-Infinity, Infinity]>;1;Mr McFarlane;Norwood Builder;17;155;160
+0;127;Undirected;408;;<[-Infinity, Infinity]>;1;Holmes;Norwood Builder;17;156;160
+125;127;Undirected;409;;<[-Infinity, Infinity]>;1;Holmes;Norwood Builder;17;157;160
+125;0;Undirected;410;;<[-Infinity, Infinity]>;2;Watson;Norwood Builder;17;158;160
+9;0;Undirected;16;;<[-Infinity, Infinity]>;2;Lady Hilda Trelony Hope;Second Stain;18;161;168
+9;10;Undirected;17;;<[-Infinity, Infinity]>;3;Trelony Hope;Second Stain;18;162;168
+11;12;Undirected;18;;<[-Infinity, Infinity]>;1;Lackey;Second Stain;18;163;168
+11;0;Undirected;20;;<[-Infinity, Infinity]>;1;Watson;Second Stain;18;164;168
+11;5;Undirected;22;;<[-Infinity, Infinity]>;1;Lestrayd;Second Stain;18;165;168
+11;9;Undirected;23;;<[-Infinity, Infinity]>;1;Lady Hilda Trelony Hope;Second Stain;18;166;168
+132;131;Undirected;420;;<[-Infinity, Infinity]>;1;Watson;Bruce-Partington Plans;19;169;179
+0;132;Undirected;422;;<[-Infinity, Infinity]>;1;Lestrayd;Bruce-Partington Plans;19;170;179
+131;0;Undirected;428;;<[-Infinity, Infinity]>;1;Watson;Bruce-Partington Plans;19;171;179
+133;0;Undirected;430;;<[-Infinity, Infinity]>;1;Watson;Bruce-Partington Plans;19;172;179
+133;134;Undirected;432;;<[-Infinity, Infinity]>;1;Watson;Bruce-Partington Plans;19;173;179
+135;134;Undirected;434;;<[-Infinity, Infinity]>;1;Watson;Bruce-Partington Plans;19;174;179
+135;0;Undirected;436;;<[-Infinity, Infinity]>;1;Watson;Bruce-Partington Plans;19;175;179
+134;0;Undirected;438;;<[-Infinity, Infinity]>;1;Mycroft;Bruce-Partington Plans;19;176;179
+136;0;Undirected;442;;<[-Infinity, Infinity]>;1;Holmes;Bruce-Partington Plans;19;177;179
+0;71;Undirected;205;;<[-Infinity, Infinity]>;4;Mr Philip Green;Lady Frances Carfax;20;180;191
+72;71;Undirected;206;;<[-Infinity, Infinity]>;1;Mr Philip Green;Lady Frances Carfax;20;181;191
+72;73;Undirected;207;;<[-Infinity, Infinity]>;1;Mr Philip Green;Lady Frances Carfax;20;182;191
+0;73;Undirected;208;;<[-Infinity, Infinity]>;1;Sergeant;Lady Frances Carfax;20;183;191
+75;73;Undirected;211;;<[-Infinity, Infinity]>;1;Watson;Lady Frances Carfax;20;184;191
+75;74;Undirected;213;;<[-Infinity, Infinity]>;1;Watson;Lady Frances Carfax;20;185;191
+73;74;Undirected;215;;<[-Infinity, Infinity]>;1;Dr Horsom;Lady Frances Carfax;20;186;191
+5;74;Undirected;216;;<[-Infinity, Infinity]>;1;Watson;Lady Frances Carfax;20;187;191
+73;5;Undirected;221;;<[-Infinity, Infinity]>;1;Lestrayd;Lady Frances Carfax;20;188;191
+73;71;Undirected;222;;<[-Infinity, Infinity]>;1;Mr Philip Green;Lady Frances Carfax;20;189;191
+0;3;Undirected;0;;<[-Infinity, Infinity]>;1;Watson;Scarlet Ring;21;192;199
+1;3;Undirected;1;;<[-Infinity, Infinity]>;1;Mr Warren;Scarlet Ring;21;193;199
+1;2;Undirected;2;;<[-Infinity, Infinity]>;1;Mr Warren;Scarlet Ring;21;194;199
+4;3;Undirected;5;;<[-Infinity, Infinity]>;1;Watson;Scarlet Ring;21;195;199
+4;5;Undirected;7;;<[-Infinity, Infinity]>;1;Gregson;Scarlet Ring;21;196;199
+4;6;Undirected;8;;<[-Infinity, Infinity]>;1;Watson;Scarlet Ring;21;197;199
+0;79;Undirected;239;;<[-Infinity, Infinity]>;2;Holmes;Retired Colourman;22;200;210
+80;79;Undirected;240;;<[-Infinity, Infinity]>;1;Mr Barker;Retired Colourman;22;201;210
+80;81;Undirected;242;;<[-Infinity, Infinity]>;1;Mr Barker;Retired Colourman;22;202;210
+81;0;Undirected;245;;<[-Infinity, Infinity]>;1;Watson;Retired Colourman;22;203;210
+82;0;Undirected;246;;<[-Infinity, Infinity]>;1;Watson;Retired Colourman;22;204;210
+84;0;Undirected;249;;<[-Infinity, Infinity]>;1;Dr Amberley;Retired Colourman;22;205;210
+84;83;Undirected;251;;<[-Infinity, Infinity]>;1;Dr Amberley;Retired Colourman;22;206;210
+0;83;Undirected;253;;<[-Infinity, Infinity]>;1;Dr Amberley;Retired Colourman;22;207;210
+81;79;Undirected;256;;<[-Infinity, Infinity]>;1;Mr Barker;Retired Colourman;22;208;210
+100;0;Undirected;328;;<[-Infinity, Infinity]>;1;Watson;6 Napoleons;23;211;217
+100;101;Undirected;330;;<[-Infinity, Infinity]>;1;Watson;6 Napoleons;23;212;217
+102;101;Undirected;332;;<[-Infinity, Infinity]>;1;Watson;6 Napoleons;23;213;217
+102;0;Undirected;334;;<[-Infinity, Infinity]>;1;Watson;6 Napoleons;23;214;217
+103;0;Undirected;336;;<[-Infinity, Infinity]>;1;Watson;6 Napoleons;23;215;217
+103;5;Undirected;338;;<[-Infinity, Infinity]>;1;Watson;6 Napoleons;23;216;217
+5;0;Undirected;146;;<[-Infinity, Infinity]>;1;Holmes;Three Garridebs;24;218;225
+137;0;Undirected;443;;<[-Infinity, Infinity]>;1;Watson;Three Garridebs;24;219;225
+137;139;Undirected;446;;<[-Infinity, Infinity]>;1;Watson;Three Garridebs;24;220;225
+0;139;Undirected;448;;<[-Infinity, Infinity]>;1;Watson;Three Garridebs;24;221;225
+137;138;Undirected;451;;<[-Infinity, Infinity]>;1;Nathan Garrideb;Three Garridebs;24;222;225
+137;5;Undirected;454;;<[-Infinity, Infinity]>;1;Police;Three Garridebs;24;223;225
+0;57;Undirected;180;;<[-Infinity, Infinity]>;1;Holmes;Illustrious Client;25;226;239
+58;57;Undirected;181;;<[-Infinity, Infinity]>;1;Watson;Illustrious Client;25;227;239
+58;0;Undirected;182;;<[-Infinity, Infinity]>;2;Watson;Illustrious Client;25;228;239
+59;0;Undirected;183;;<[-Infinity, Infinity]>;2;Colonel Damery;Illustrious Client;25;229;239
+61;0;Undirected;184;;<[-Infinity, Infinity]>;2;Watson;Illustrious Client;25;230;239
+61;58;Undirected;185;;<[-Infinity, Infinity]>;2;Watson;Illustrious Client;25;231;239
+60;0;Undirected;186;;<[-Infinity, Infinity]>;2;Watson;Illustrious Client;25;232;239
+62;0;Undirected;188;;<[-Infinity, Infinity]>;1;Holmes;Illustrious Client;25;233;239
+63;0;Undirected;190;;<[-Infinity, Infinity]>;1;Watson;Illustrious Client;25;234;239
+65;0;Undirected;191;;<[-Infinity, Infinity]>;1;Holmes;Illustrious Client;25;235;239
+65;64;Undirected;192;;<[-Infinity, Infinity]>;1;Holmes;Illustrious Client;25;236;239
+0;64;Undirected;193;;<[-Infinity, Infinity]>;1;Holmes;Illustrious Client;25;237;239
+76;0;Undirected;223;;<[-Infinity, Infinity]>;1;Sam Merton;Mazarin Stone;26;240;242
+120;0;Undirected;388;;<[-Infinity, Infinity]>;1;Watson;Three Gables;27;243;250
+129;0;Undirected;412;;<[-Infinity, Infinity]>;2;Watson;Three Gables;27;244;250
+129;130;Undirected;415;;<[-Infinity, Infinity]>;1;Holmes;Three Gables;27;245;250
+129;120;Undirected;416;;<[-Infinity, Infinity]>;1;Watson;Three Gables;27;246;250
+66;129;Undirected;418;;<[-Infinity, Infinity]>;1;Watson;Three Gables;27;247;250

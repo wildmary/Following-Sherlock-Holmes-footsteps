@@ -1,0 +1,239 @@
+Source;Target;Type;Id;Label;timeset;Weight;Character;Title;Chronology
+0;3;Undirected;0;;;1;Watson;Scarlet Ring;21
+1;3;Undirected;1;;;1;Mr Warren;Scarlet Ring;21
+1;2;Undirected;2;;;1;Mr Warren;Scarlet Ring;21
+4;3;Undirected;5;;;1;Watson;Scarlet Ring;21
+4;5;Undirected;7;;;1;Gregson;Scarlet Ring;21
+4;6;Undirected;8;;;1;Watson;Scarlet Ring;21
+7;0;Undirected;11;;;2;Watson;Beryl Coronet;3
+7;5;Undirected;12;;;1;Police;Beryl Coronet;3
+8;0;Undirected;15;;;1;Holmes;Beryl Coronet;3
+9;0;Undirected;16;;;2;Lady Hilda Trelony Hope;Second Stain;18
+9;10;Undirected;17;;;3;Trelony Hope;Second Stain;18
+11;12;Undirected;18;;;1;Lackey;Second Stain;18
+11;0;Undirected;20;;;1;Watson;Second Stain;18
+11;5;Undirected;22;;;1;Lestrayd;Second Stain;18
+11;9;Undirected;23;;;1;Lady Hilda Trelony Hope;Second Stain;18
+13;1;Undirected;26;;;1;Henry Baker;Blue Carbuncle;12
+14;1;Undirected;27;;;1;Henry Baker;Blue Carbuncle;12
+5;23;Undirected;28;;;1;John Horner;Blue Carbuncle;12
+0;15;Undirected;30;;;1;Watson;Blue Carbuncle;12
+16;15;Undirected;32;;;1;Watson;Blue Carbuncle;12
+16;17;Undirected;34;;;1;Watson;Blue Carbuncle;12
+18;17;Undirected;36;;;1;Watson;Blue Carbuncle;12
+18;13;Undirected;38;;;1;Watson;Blue Carbuncle;12
+19;13;Undirected;40;;;1;Watson;Blue Carbuncle;12
+19;20;Undirected;42;;;1;Watson;Blue Carbuncle;12
+21;20;Undirected;44;;;1;Watson;Blue Carbuncle;12
+21;22;Undirected;46;;;1;Goose;Blue Carbuncle;12
+21;13;Undirected;47;;;1;Goose;Blue Carbuncle;12
+21;0;Undirected;48;;;1;Watson;Blue Carbuncle;12
+22;23;Undirected;51;;;1;James Ryner;Blue Carbuncle;12
+17;0;Undirected;52;;;1;Watson;Sign of the Four;9
+25;27;Undirected;53;;;1;Mayor Morsten;Sign of the Four;9
+24;0;Undirected;54;;;2;Watson;Sign of the Four;9
+26;0;Undirected;55;;;1;Watson;Sign of the Four;9
+26;28;Undirected;58;;;1;Mary Morsten;Sign of the Four;9
+29;28;Undirected;61;;;1;Watson;Sign of the Four;9
+29;30;Undirected;64;;;1;Watson;Sign of the Four;9
+31;30;Undirected;67;;;1;Watson;Sign of the Four;9
+31;32;Undirected;70;;;1;Watson;Sign of the Four;9
+33;32;Undirected;73;;;1;Watson;Sign of the Four;9
+33;34;Undirected;76;;;1;Watson;Sign of the Four;9
+35;34;Undirected;79;;;1;Watson;Sign of the Four;9
+35;36;Undirected;82;;;1;Watson;Sign of the Four;9
+27;36;Undirected;85;;;1;Watson;Sign of the Four;9
+27;5;Undirected;89;;;1;Tadeush Sholto;Sign of the Four;9
+27;24;Undirected;91;;;1;Watson;Sign of the Four;9
+37;24;Undirected;93;;;1;Watson;Sign of the Four;9
+37;27;Undirected;94;;;1;Watson;Sign of the Four;9
+7;27;Undirected;96;;;1;Smoll;Sign of the Four;9
+7;38;Undirected;100;;;1;Smoll;Sign of the Four;9
+39;38;Undirected;104;;;1;Smoll;Sign of the Four;9
+39;40;Undirected;108;;;1;Smoll;Sign of the Four;9
+41;40;Undirected;112;;;1;Smoll;Sign of the Four;9
+41;42;Undirected;116;;;1;Smoll;Sign of the Four;9
+43;42;Undirected;120;;;1;Toby;Sign of the Four;9
+44;42;Undirected;123;;;1;Smoll;Sign of the Four;9
+44;45;Undirected;127;;;1;Smoll;Sign of the Four;9
+46;45;Undirected;131;;;1;Smoll;Sign of the Four;9
+46;47;Undirected;135;;;1;Toby;Sign of the Four;9
+0;47;Undirected;138;;;1;Toby;Sign of the Four;9
+0;37;Undirected;141;;;1;Toby;Sign of the Four;9
+48;0;Undirected;145;;;1;Holmes;Sign of the Four;9
+5;0;Undirected;146;;;1;Holmes;Three Garridebs;24
+49;0;Undirected;147;;;1;Etelny Jones;Sign of the Four;9
+49;50;Undirected;150;;;1;Etelny Jones;Sign of the Four;9
+51;50;Undirected;153;;;1;Smoll;Sign of the Four;9
+51;52;Undirected;157;;;1;Smoll;Sign of the Four;9
+53;52;Undirected;161;;;1;Smoll;Sign of the Four;9
+53;54;Undirected;165;;;1;Smoll;Sign of the Four;9
+56;54;Undirected;169;;;1;Smoll;Sign of the Four;9
+30;0;Undirected;173;;;1;Smoll;Sign of the Four;9
+30;24;Undirected;176;;;1;Watson;Sign of the Four;9
+0;57;Undirected;180;;;1;Holmes;Illustrious Client;25
+58;57;Undirected;181;;;1;Watson;Illustrious Client;25
+58;0;Undirected;182;;;2;Watson;Illustrious Client;25
+59;0;Undirected;183;;;2;Colonel Damery;Illustrious Client;25
+61;0;Undirected;184;;;2;Watson;Illustrious Client;25
+61;58;Undirected;185;;;2;Watson;Illustrious Client;25
+60;0;Undirected;186;;;2;Watson;Illustrious Client;25
+62;0;Undirected;188;;;1;Holmes;Illustrious Client;25
+63;0;Undirected;190;;;1;Watson;Illustrious Client;25
+65;0;Undirected;191;;;1;Holmes;Illustrious Client;25
+65;64;Undirected;192;;;1;Holmes;Illustrious Client;25
+0;64;Undirected;193;;;1;Holmes;Illustrious Client;25
+0;66;Undirected;195;;;2;Lord Saint Simon;Noble Bachelor;8
+67;66;Undirected;196;;;1;Mrs Francis Hay Maulton;Noble Bachelor;8
+67;68;Undirected;198;;;1;Mr Maulton;Noble Bachelor;8
+70;68;Undirected;201;;;1;Mrs Francis Hay Maulton;Noble Bachelor;8
+5;69;Undirected;203;;;1;Lestrayd;Noble Bachelor;8
+0;69;Undirected;204;;;1;Lestrayd;Noble Bachelor;8
+0;71;Undirected;205;;;4;Mr Philip Green;Lady Frances Carfax;20
+72;71;Undirected;206;;;1;Mr Philip Green;Lady Frances Carfax;20
+72;73;Undirected;207;;;1;Mr Philip Green;Lady Frances Carfax;20
+0;73;Undirected;208;;;1;Sergeant;Lady Frances Carfax;20
+75;73;Undirected;211;;;1;Watson;Lady Frances Carfax;20
+75;74;Undirected;213;;;1;Watson;Lady Frances Carfax;20
+73;74;Undirected;215;;;1;Dr Horsom;Lady Frances Carfax;20
+5;74;Undirected;216;;;1;Watson;Lady Frances Carfax;20
+73;5;Undirected;221;;;1;Lestrayd;Lady Frances Carfax;20
+73;71;Undirected;222;;;1;Mr Philip Green;Lady Frances Carfax;20
+76;0;Undirected;223;;;1;Sam Merton;Mazarin Stone;26
+77;0;Undirected;229;;;1;Watson;Charles Augustus Milverton;4
+77;5;Undirected;232;;;1;Police;Charles Augustus Milverton;4
+0;18;Undirected;234;;;1;John Clayton;The Hound of the Baskervilles;10
+78;18;Undirected;236;;;1;Watson;Charles Augustus Milverton;4
+0;79;Undirected;239;;;2;Holmes;Retired Colourman;22
+80;79;Undirected;240;;;1;Mr Barker;Retired Colourman;22
+80;81;Undirected;242;;;1;Mr Barker;Retired Colourman;22
+81;0;Undirected;245;;;1;Watson;Retired Colourman;22
+82;0;Undirected;246;;;1;Watson;Retired Colourman;22
+84;0;Undirected;249;;;1;Dr Amberley;Retired Colourman;22
+84;83;Undirected;251;;;1;Dr Amberley;Retired Colourman;22
+0;83;Undirected;253;;;1;Dr Amberley;Retired Colourman;22
+81;79;Undirected;256;;;1;Mr Barker;Retired Colourman;22
+0;86;Undirected;257;;;3;Watson;The Hound of the Baskervilles;10
+0;85;Undirected;258;;;1;John Clayton;The Hound of the Baskervilles;10
+86;85;Undirected;259;;;1;Sir Henry;The Hound of the Baskervilles;10
+86;87;Undirected;261;;;1;Sir Henry;The Hound of the Baskervilles;10
+18;64;Undirected;269;;;1;Sir Henry;The Hound of the Baskervilles;10
+86;64;Undirected;274;;;1;Dr Mortimer;The Hound of the Baskervilles;10
+40;64;Undirected;276;;;1;Watson;The Hound of the Baskervilles;10
+40;86;Undirected;278;;;1;Watson;The Hound of the Baskervilles;10
+64;85;Undirected;283;;;1;John Clayton;The Hound of the Baskervilles;10
+88;85;Undirected;284;;;1;John Clayton;The Hound of the Baskervilles;10
+88;0;Undirected;285;;;1;John Clayton;The Hound of the Baskervilles13;10
+87;89;Undirected;286;;;1;Watson;Study in Scarlet;1
+91;89;Undirected;289;;;1;Stamford;Study in Scarlet;1
+91;90;Undirected;291;;;1;Stamford;Study in Scarlet;1
+87;90;Undirected;293;;;2;Watson;Study in Scarlet;1
+0;90;Undirected;294;;;1;Watson;Study in Scarlet;1
+92;93;Undirected;296;;;1;Stangerson;Study in Scarlet;1
+94;93;Undirected;299;;;1;Stangerson;Study in Scarlet;1
+95;93;Undirected;300;;;1;Hope;Study in Scarlet;1
+95;94;Undirected;302;;;1;Hope;Study in Scarlet;1
+95;0;Undirected;303;;;1;Watson;Study in Scarlet;1
+95;96;Undirected;305;;;1;Watson;Study in Scarlet;1
+0;96;Undirected;307;;;1;Watson;Study in Scarlet;1
+0;97;Undirected;309;;;1;Holmes;Study in Scarlet;1
+0;94;Undirected;312;;;1;Lestrayd;Study in Scarlet;1
+0;99;Undirected;319;;;1;Watson;Resident Patient;2
+87;99;Undirected;321;;;1;Watson;Resident Patient;2
+87;0;Undirected;323;;;1;Watson;Resident Patient;2
+98;0;Undirected;325;;;2;Watson;Resident Patient;2
+100;0;Undirected;328;;;1;Watson;6 Napoleons;23
+100;101;Undirected;330;;;1;Watson;6 Napoleons;23
+102;101;Undirected;332;;;1;Watson;6 Napoleons;23
+102;0;Undirected;334;;;1;Watson;6 Napoleons;23
+103;0;Undirected;336;;;1;Watson;6 Napoleons;23
+103;5;Undirected;338;;;1;Watson;6 Napoleons;23
+0;104;Undirected;342;;;2;Mycroft;Greek Interpreter;7
+5;104;Undirected;345;;;1;Watson;Greek Interpreter;7
+5;105;Undirected;348;;;1;Mycroft;Greek Interpreter;7
+106;105;Undirected;351;;;1;Mycroft;Greek Interpreter;7
+107;0;Undirected;354;;;1;John Openshaw;5 Orange Pips;5
+107;108;Undirected;355;;;1;John Openshaw;5 Orange Pips;5
+111;0;Undirected;356;;;2;Watson;Dying Detective;14
+109;0;Undirected;357;;;1;Watson;Scandal in Bohemia;6
+109;110;Undirected;358;;;1;Iren Adler;Scandal in Bohemia;6
+112;111;Undirected;362;;;1;Watson;Twisted Lip;11
+112;0;Undirected;363;;;1;Holmes;Twisted Lip;11
+114;113;Undirected;364;;;2;Wilson;Red-Headed League;13
+114;0;Undirected;365;;;1;Wilson;Red-Headed League;13
+115;0;Undirected;366;;;1;Watson;Red-Headed League;13
+115;113;Undirected;368;;;1;Watson;Red-Headed League;13
+116;113;Undirected;370;;;1;Watson;Red-Headed League;13
+116;111;Undirected;372;;;1;Watson;Red-Headed League;13
+0;116;Undirected;374;;;1;Holmes;Red-Headed League;13
+0;113;Undirected;375;;;1;Watson;Red-Headed League;13
+0;117;Undirected;379;;;1;Watson;Dying Detective;14
+61;5;Undirected;382;;;1;Watson;Dying Detective;14
+0;118;Undirected;384;;;1;Holmes;Final Problem;12
+119;118;Undirected;385;;;1;Holmes;Final Problem;12
+119;104;Undirected;386;;;1;Holmes;Final Problem;15
+120;104;Undirected;387;;;1;Holmes;Final Problem;15
+120;0;Undirected;388;;;1;Watson;Three Gables;27
+121;0;Undirected;389;;;1;Holmes;Final Problem;15
+120;87;Undirected;390;;;1;Watson;Final Problem;15
+121;87;Undirected;391;;;1;Watson;Final Problem;15
+121;120;Undirected;392;;;1;Watson;Final Problem;15
+123;122;Undirected;393;;;1;Moran;Empty House;16
+123;124;Undirected;395;;;1;Moran;Empty House;16
+123;120;Undirected;396;;;1;Holmes;Empty House;16
+123;0;Undirected;397;;;1;Holmes;Empty House;16
+0;124;Undirected;401;;;1;Moran;Empty House;16
+126;125;Undirected;404;;;1;Mr McFarlane;Norwood Builder;17
+128;125;Undirected;405;;;1;Mr McFarlane;Norwood Builder;17
+128;126;Undirected;406;;;1;Mr McFarlane;Norwood Builder;17
+0;126;Undirected;407;;;1;Mr McFarlane;Norwood Builder;17
+0;127;Undirected;408;;;1;Holmes;Norwood Builder;17
+125;127;Undirected;409;;;1;Holmes;Norwood Builder;17
+125;0;Undirected;410;;;2;Watson;Norwood Builder;17
+129;0;Undirected;412;;;2;Watson;Three Gables;27
+129;130;Undirected;415;;;1;Holmes;Three Gables;27
+129;120;Undirected;416;;;1;Watson;Three Gables;27
+66;129;Undirected;418;;;1;Watson;Three Gables;27
+132;131;Undirected;420;;;1;Watson;Bruce-Partington Plans;19
+0;132;Undirected;422;;;1;Lestrayd;Bruce-Partington Plans;19
+131;0;Undirected;428;;;1;Watson;Bruce-Partington Plans;19
+133;0;Undirected;430;;;1;Watson;Bruce-Partington Plans;19
+133;134;Undirected;432;;;1;Watson;Bruce-Partington Plans;19
+135;134;Undirected;434;;;1;Watson;Bruce-Partington Plans;19
+135;0;Undirected;436;;;1;Watson;Bruce-Partington Plans;19
+134;0;Undirected;438;;;1;Mycroft;Bruce-Partington Plans;19
+136;0;Undirected;442;;;1;Holmes;Bruce-Partington Plans;19
+137;0;Undirected;443;;;1;Watson;Three Garridebs;24
+137;139;Undirected;446;;;1;Watson;Three Garridebs;24
+0;139;Undirected;448;;;1;Watson;Three Garridebs;24
+137;138;Undirected;451;;;1;Nathan Garrideb;Three Garridebs;24
+137;5;Undirected;454;;;1;Police;Three Garridebs;24
+121;140;Directed;459;;;1;Watson;Final Problem;15
+121;140;Directed;460;;;1;Holmes;Final Problem;15
+140;142;Directed;461;;;1;Watson;Final Problem;15
+140;142;Directed;462;;;1;Holmes;Final Problem;15
+142;143;Directed;463;;;1;Watson;Final Problem;15
+142;143;Directed;464;;;1;Holmes;Final Problem;15
+143;144;Directed;465;;;1;Watson;Final Problem;15
+143;144;Directed;466;;;1;Holmes;Final Problem;15
+144;145;Directed;467;;;1;Watson;Final Problem;15
+144;145;Directed;468;;;1;Holmes;Final Problem;15
+145;146;Directed;469;;;1;Watson;Final Problem;15
+145;146;Directed;470;;;1;Holmes;Final Problem;15
+146;147;Directed;471;;;1;Watson;Final Problem;15
+146;147;Directed;472;;;1;Holmes;Final Problem;15
+147;148;Directed;473;;;1;Watson;Final Problem;15
+147;148;Directed;474;;;1;Holmes;Final Problem;15
+148;149;Directed;475;;;1;Watson;Final Problem;15
+148;149;Directed;476;;;1;Holmes;Final Problem;15
+149;148;Directed;477;;;1;Watson;Final Problem;15
+148;149;Directed;478;;;1;Watson;Final Problem;15
+149;120;Directed;479;;;1;Watson;Final Problem;15
+149;150;Directed;480;;;1;Holmes;Final Problem;15
+150;151;Directed;481;;;1;Holmes;Final Problem;15
+151;152;Directed;482;;;1;Holmes;Final Problem;15
+152;153;Directed;483;;;1;Holmes;Final Problem;15
+153;154;Directed;484;;;1;Holmes;Final Problem;15
+154;0;Directed;485;;;1;Holmes;Final Problem;15
+121;141;Directed;486;;;1;Moriarty;Final Problem;15
+141;149;Directed;487;;;1;Moriarty;Final Problem;15
